@@ -10,7 +10,7 @@ A simple code editor built using HTML, CSS, and JavaScript.
 
 ## Introduction
 
-Welcome to the Code Editor project! This is a basic code editor that allows users to write and edit code snippets.
+Welcome to the Code Editor project! This is a basic code editor that allows users to write and see out of HTML, CSS, JS.
 
 ## Features
 
